@@ -1,0 +1,22 @@
+.background
+{
+    background-image: url("https://images.stockcake.com/public/2/1/b/21bca570-9408-4753-aca3-cd4f62279fdd_large/iconic-taj-mahal-stockcake.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.title-card{
+    background-color: aqua;
+    height: 30vh;
+    text-align: center;
+    padding: 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.start{
+    border-width: 0px;
+    border-radius: 20px;
+    height: 36px;
+    width: 138px;
+}
